@@ -24,7 +24,7 @@ const About = () => {
         <h2 className="section-title">{t("about.title")}</h2>
         <p className="mt-3 text-sm text-slate-700 dark:text-slate-300 md:text-base">{t("about.summary")}</p>
         <p className="mt-3 text-sm text-slate-700 dark:text-slate-300">{t("about.responsibility")}</p>
-        {(mode === "family" || mode === "matrimony") && (
+        {mode === "family" && (
           <div className="mt-4 space-y-2 text-sm text-slate-800 dark:text-slate-200">
             <p><strong>{t("identity.height")}:</strong> {resumeData.height}</p>
             <p><strong>{t("identity.weight")}:</strong> {resumeData.weight}</p>

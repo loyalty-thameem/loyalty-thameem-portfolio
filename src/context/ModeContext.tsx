@@ -1,6 +1,6 @@
 import { createContext, useContext, useEffect, useMemo, useState, type ReactNode } from "react";
 
-export type AudienceMode = "default" | "hr" | "ceo" | "family" | "matrimony";
+export type AudienceMode = "default" | "hr" | "ceo" | "family";
 export type SectionKey =
   | "hero"
   | "about"
@@ -22,8 +22,7 @@ const modeVisibility: Record<AudienceMode, SectionKey[]> = {
   default: ["hero", "about", "skills", "experience", "projects", "gallery", "testimonials", "contact", "aiChat"],
   hr: ["hero", "about", "skills", "experience", "projects", "testimonials", "contact", "aiChat"],
   ceo: ["hero", "skills", "experience", "projects", "testimonials", "contact", "aiChat"],
-  family: ["hero", "about", "gallery", "testimonials", "contact", "aiChat"],
-  matrimony: ["hero", "about", "gallery", "testimonials", "contact", "aiChat"]
+  family: ["hero", "about", "gallery", "testimonials", "contact", "aiChat"]
 };
 
 const ModeContext = createContext<ModeContextValue | undefined>(undefined);
@@ -33,7 +32,7 @@ const sectionsQueryKey = "sections";
 const contentQueryKey = "content";
 
 const isAudienceMode = (value: string | null): value is AudienceMode =>
-  value === "default" || value === "hr" || value === "ceo" || value === "family" || value === "matrimony";
+  value === "default" || value === "hr" || value === "ceo" || value === "family";
 
 const isSectionKey = (value: string): value is SectionKey =>
   value === "hero" ||

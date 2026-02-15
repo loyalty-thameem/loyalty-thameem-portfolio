@@ -1,7 +1,7 @@
 import { useTranslation } from "react-i18next";
 import { useMode, type AudienceMode } from "../context/ModeContext";
 
-const modes: AudienceMode[] = ["default", "hr", "ceo", "family", "matrimony"];
+const modes: AudienceMode[] = ["default", "hr", "ceo", "family"];
 
 const ModeSwitcher = () => {
   const { mode, setMode } = useMode();
