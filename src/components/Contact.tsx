@@ -6,7 +6,9 @@ const Contact = () => {
   const { t, i18n } = useTranslation();
   const { isSectionVisible } = useMode();
   const supportedResumeLanguages = new Set(["en", "ar", "de", "fr", "ja", "ta"]);
-  const localizedResume = supportedResumeLanguages.has(i18n.language) ? `/resume-${i18n.language}.pdf` : "/resume.pdf";
+  const localizedResume = supportedResumeLanguages.has(i18n.language)
+    ? `${import.meta.env.BASE_URL}resume-${i18n.language}.pdf`
+    : `${import.meta.env.BASE_URL}resume.pdf`;
   const showContactActions = (() => {
     if (typeof window === "undefined") {
       return false;

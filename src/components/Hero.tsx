@@ -61,7 +61,7 @@ const Hero = () => {
         <div className="mx-auto w-full max-w-xs">
           <div className="overflow-hidden rounded-2xl border border-cyan-300/40 bg-white/30 p-2 shadow-[0_0_28px_rgba(14,165,233,0.25)] dark:bg-black/20">
             <img
-              src="/images/personal/profile.jpg"
+              src={`${import.meta.env.BASE_URL}images/personal/profile.jpg`}
               alt="Thameem Ansari profile"
               className="h-[22rem] w-full rounded-xl object-cover object-top"
               loading="eager"
