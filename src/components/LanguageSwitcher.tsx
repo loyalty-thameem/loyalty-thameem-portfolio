@@ -17,7 +17,7 @@ const LanguageSwitcher = () => {
   const { i18n, t } = useTranslation();
 
   return (
-    <label className="inline-flex items-center gap-2 rounded-xl border border-white/20 bg-white/10 px-2 py-1 text-xs text-slate-700 backdrop-blur dark:text-slate-200">
+    <label data-tour="language" className="inline-flex items-center gap-2 rounded-xl border border-white/20 bg-white/10 px-2 py-1 text-xs text-slate-700 backdrop-blur dark:text-slate-200">
       <span className="hidden sm:inline">{t("language.label")}</span>
       <select
         className="max-w-28 rounded-md border border-white/20 bg-slate-100/85 px-2 py-1 text-xs text-slate-900 outline-none dark:bg-slate-900/60 dark:text-slate-100"

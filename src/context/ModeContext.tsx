@@ -22,7 +22,7 @@ const modeVisibility: Record<AudienceMode, SectionKey[]> = {
   default: ["hero", "about", "skills", "experience", "projects", "gallery", "testimonials", "contact", "aiChat"],
   hr: ["hero", "about", "skills", "experience", "projects", "testimonials", "contact", "aiChat"],
   ceo: ["hero", "skills", "experience", "projects", "testimonials", "contact", "aiChat"],
-  family: ["hero", "about", "gallery", "testimonials", "contact", "aiChat"]
+  family: ["hero", "about", "projects", "gallery", "testimonials", "contact", "aiChat"]
 };
 
 const ModeContext = createContext<ModeContextValue | undefined>(undefined);

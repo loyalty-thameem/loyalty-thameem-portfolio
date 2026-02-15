@@ -1,21 +1,15 @@
 import { motion } from "framer-motion";
 import { useTranslation } from "react-i18next";
-import { useMode } from "../context/ModeContext";
 
-const projectKeys = ["venba", "fintech", "trove", "mytheron"];
+const projectKeys = ["venba", "fintech", "trove", "mytheron", "onboarding"];
 
 const Projects = () => {
   const { t } = useTranslation();
-  const { isSectionVisible } = useMode();
-
-  if (!isSectionVisible("projects")) {
-    return null;
-  }
 
   return (
     <section id="projects" className="glass-card">
       <h2 className="section-title">{t("projects.title")}</h2>
-      <div className="mt-6 grid gap-4 md:grid-cols-2 lg:grid-cols-4">
+      <div className="mt-6 grid gap-4 md:grid-cols-2 lg:grid-cols-5">
         {projectKeys.map((project) => (
           <motion.article
             key={project}

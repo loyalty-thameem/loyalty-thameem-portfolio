@@ -76,6 +76,10 @@
       "mytheron": {
         "title": "MyTheron - Internal Job Portal",
         "description": "Internal recruitment platform for role transitions with role-based access, application tracking, and interview flow."
+      },
+      "onboarding": {
+        "title": "Portfolio Onboarding Experience",
+        "description": "How to use this portfolio steps for first-time users with onboarding, first-time user guide, intro walkthrough, and a getting started section."
       }
     }
   },
@@ -100,5 +104,31 @@
     "send": "Send",
     "play": "Play Voice",
     "hint": "Ask a question or tap a quick prompt."
+  },
+  "onboardingGuide": {
+    "title": "Getting Started",
+    "subtitle": "Follow these steps to quickly use the portfolio controls.",
+    "progress": "Step {{current}} of {{total}}",
+    "steps": {
+      "language": {
+        "title": "Choose Language",
+        "description": "Click the language dropdown to switch portfolio content to your preferred language."
+      },
+      "theme": {
+        "title": "Switch Theme",
+        "description": "Click the theme button to toggle between light and dark mode."
+      },
+      "mode": {
+        "title": "Mode (Default is fine)",
+        "description": "You can keep Default mode and click Next, or choose HR/CEO/Family mode. Use Skip anytime."
+      }
+    },
+    "actions": {
+      "open": "Getting Started",
+      "back": "Back",
+      "next": "Next",
+      "skip": "Skip",
+      "finish": "Finish"
+    }
   }
 }
