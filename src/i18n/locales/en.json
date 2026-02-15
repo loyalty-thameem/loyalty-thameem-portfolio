@@ -1,0 +1,104 @@
+{
+  "identity": {
+    "name": "Thameem Ansari",
+    "height": "Height",
+    "weight": "Current Weight",
+    "values": "Core Values"
+  },
+  "language": { "label": "Lang" },
+  "mode": {
+    "label": "Mode",
+    "default": "Default",
+    "hr": "HR",
+    "ceo": "CEO",
+    "family": "Family",
+    "matrimony": "Matrimony"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark"
+  },
+  "hero": {
+    "greeting": "Digital Identity Portfolio",
+    "typingWords": [
+      "Senior Software Engineer",
+      "Value-Driven Individual",
+      "Traditional Mindset, Modern Execution"
+    ],
+    "summary": "Principle-driven, health-conscious, and disciplined; grounded in tradition, focused on growth, and committed to a clean, purposeful life.",
+    "ctaPrimary": "View Projects",
+    "ctaSecondary": "Contact"
+  },
+  "about": {
+    "title": "About Me",
+    "summary": "I maintain a disciplined, value-driven life with a traditional mindset and simple-living approach. My routines prioritize health, consistency, and long-term growth.",
+    "responsibility": "Clean lifestyle. Disciplined habits. Focused mindset. Eggetarian and strictly teetotaler with strong family responsibility and spiritual grounding.",
+    "hobbiesTitle": "Food Preferences & Lifestyle Choices"
+  },
+  "vision": {
+    "title": "Vision 2030",
+    "subtitle": "Building intelligent, multilingual, and high-trust digital experiences.",
+    "points": [
+      "Lead global teams building AI-ready frontend ecosystems",
+      "Mentor engineers and raise quality standards",
+      "Build products that balance business goals and human values"
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "radarTitle": "Capability Radar",
+    "items": {
+      "frontend": "Frontend Engineering",
+      "architecture": "System Architecture",
+      "performance": "Performance Optimization",
+      "leadership": "Technical Leadership",
+      "communication": "Stakeholder Communication"
+    }
+  },
+  "experience": {
+    "title": "Work Experience"
+  },
+  "projects": {
+    "title": "Projects",
+    "items": {
+      "venba": {
+        "title": "Venba - AI Chat Assistance Web App",
+        "description": "AI-powered chatbot with WebSocket-based real-time, human-like conversations and Redux Toolkit state management."
+      },
+      "fintech": {
+        "title": "Fintech - Financial Eligibility & Advisory Platform",
+        "description": "Digital workflow platform connecting customers and banks, streamlining eligibility checks and advisory processing."
+      },
+      "trove": {
+        "title": "Trove - Real-Time Chat App",
+        "description": "Secure, scalable chat app supporting real-time messaging, group chats, multimedia sharing, and Firebase auth."
+      },
+      "mytheron": {
+        "title": "MyTheron - Internal Job Portal",
+        "description": "Internal recruitment platform for role transitions with role-based access, application tracking, and interview flow."
+      }
+    }
+  },
+  "gallery": {
+    "title": "Gallery",
+    "professional": "Professional",
+    "personal": "Personal",
+    "fun": "Fun"
+  },
+  "testimonials": {
+    "title": "Testimonials"
+  },
+  "contact": {
+    "title": "Contact",
+    "summary": "Open to meaningful opportunities aligned with discipline, long-term impact, and responsible growth.",
+    "download": "Download Resume"
+  },
+  "chat": {
+    "title": "AI Chat",
+    "quickQuestions": "Quick Questions",
+    "placeholder": "Ask about experience, projects, strengths...",
+    "send": "Send",
+    "play": "Play Voice",
+    "hint": "Ask a question or tap a quick prompt."
+  }
+}

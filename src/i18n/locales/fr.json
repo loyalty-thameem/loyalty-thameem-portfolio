@@ -1,0 +1,191 @@
+﻿{
+  "identity": {
+    "name": "Thameem Ansari",
+    "height": "Taille",
+    "weight": "Poids actuel",
+    "values": "Valeurs essentielles"
+  },
+  "language": {
+    "label": "Langue"
+  },
+  "mode": {
+    "label": "Mode",
+    "default": "Par défaut",
+    "hr": "RH",
+    "ceo": "PDG",
+    "family": "Famille",
+    "matrimony": "Mariage"
+  },
+  "theme": {
+    "light": "Clair",
+    "dark": "Sombre"
+  },
+  "hero": {
+    "greeting": "Portfolio d'identité numérique",
+    "typingWords": [
+      "Ingénieur logiciel senior",
+      "Profil guidé par les valeurs",
+      "Esprit traditionnel, exécution moderne"
+    ],
+    "summary": "Guidé par des principes, soucieux de la santé et discipliné; enraciné dans la tradition, orienté croissance et engagé dans une vie utile.",
+    "ctaPrimary": "Voir les projets",
+    "ctaSecondary": "Contact"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "summary": "Je mène une vie disciplinée et guidée par les valeurs, avec un état d'esprit traditionnel et une approche simple. Mes routines privilégient la santé, la constance et la croissance à long terme.",
+    "responsibility": "Mode de vie propre. Habitudes disciplinées. Esprit concentré. Eggetarian et strictement abstinent, avec de fortes valeurs familiales et spirituelles.",
+    "hobbiesTitle": "Préférences alimentaires et choix de vie"
+  },
+  "vision": {
+    "title": "Vision 2030",
+    "subtitle": "Construire des expériences numériques intelligentes, multilingues et fiables.",
+    "points": [
+      "Diriger des équipes mondiales pour créer des écosystèmes frontend prêts pour l'IA",
+      "Accompagner les ingénieurs et élever les standards de qualité",
+      "Construire des produits équilibrant objectifs business et valeurs humaines"
+    ]
+  },
+  "skills": {
+    "title": "Compétences",
+    "radarTitle": "Carte des capacités",
+    "items": {
+      "frontend": "Ingénierie Frontend",
+      "architecture": "Architecture Système",
+      "performance": "Optimisation des performances",
+      "leadership": "Leadership technique",
+      "communication": "Communication avec les parties prenantes"
+    }
+  },
+  "experience": {
+    "title": "Expérience professionnelle",
+    "items": [
+      {
+        "role": "Ingénieur Frontend Senior",
+        "company": "Capgemini",
+        "duration": "7 mai 2025 - Présent",
+        "location": "Chennai, Inde",
+        "summary": "Direction de l'ingénierie frontend pour des applications d'entreprise évolutives avec React et TypeScript, en mettant l'accent sur la qualité, les performances et une architecture maintenable.",
+        "highlights": [
+          "Création et maintenance de modules frontend de niveau production pour des workflows d'entreprise",
+          "Collaboration avec les équipes produit, design et backend pour une livraison fiable",
+          "Amélioration des performances et de la cohérence UX via des composants réutilisables"
+        ]
+      },
+      {
+        "role": "Ingénieur Frontend Senior",
+        "company": "Cavin Infotech",
+        "duration": "Octobre 2024 - Avril 2025",
+        "location": "Chennai, Inde",
+        "summary": "Développement de solutions web produit évolutives avec ReactJS, Next.js, WebSocket, Redux Toolkit et de solides pratiques UI/UX.",
+        "highlights": [
+          "Venba - Application web d'assistance chat IA",
+          "Fintech - Plateforme d'éligibilité financière et de conseil",
+          "Trove - Application de chat en temps réel",
+          "MyTheron - Portail d'emploi interne"
+        ]
+      },
+      {
+        "role": "Ingénieur Frontend Senior",
+        "company": "Coherent Pixels (Client : Cavin Infotech)",
+        "duration": "Juillet 2024 - Septembre 2024",
+        "location": "Chennai, Inde",
+        "summary": "Mission en contrat via Coherent Pixels pour Cavin Infotech, avec développement et optimisation d'applications client basées sur React.",
+        "highlights": [
+          "Projet : Ascendio - Application de suivi des objectifs",
+          "Conception d'interfaces de workflow et de suivi de progression orientées engagement utilisateur",
+          "Intégration de graphiques/rapports interactifs pour l'analyse de performance",
+          "Technologies : ReactJS, JavaScript, React Hook Form, Redux Toolkit"
+        ]
+      },
+      {
+        "role": "Ingénieur Frontend",
+        "company": "Goaira Technologies",
+        "duration": "Septembre 2022 - Juin 2024",
+        "location": "Chennai, Inde",
+        "summary": "Développement et maintenance du panneau d'administration et du site Goaira pour les flux de réservation (voiture, moto, auto et location).",
+        "highlights": [
+          "Optimisation des performances applicatives et réduction des temps de chargement",
+          "Développement de solutions de rendu personnalisées avec React Reconciler",
+          "Intégration d'API et gestion d'état globale avec Redux Toolkit",
+          "Réalisation d'audits de performance et mise en oeuvre d'optimisations",
+          "Collaboration avec des designers UX/UI et des développeurs backend"
+        ]
+      },
+      {
+        "role": "Développeur Frontend Junior",
+        "company": "Tecnovators Software Solutions",
+        "duration": "Mai 2021 - Septembre 2022",
+        "location": "Chennai, Inde",
+        "summary": "Création et maintenance d'applications e-commerce performantes avec une architecture frontend évolutive et responsive.",
+        "highlights": [
+          "Développement de plusieurs applications e-commerce avec ReactJS, HTML, CSS et JavaScript",
+          "Maintenance quotidienne de plus de 40 pages web",
+          "Intégration/personnalisation de bibliothèques React tierces",
+          "Utilisation de Git pour le versioning et la collaboration en équipe",
+          "Garantie de compatibilité cross-browser et de standards de code propres"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projets",
+    "items": {
+      "venba": {
+        "title": "Venba - Application web d'assistance chat IA",
+        "description": "Chatbot IA avec conversations temps réel via WebSocket et gestion d'état avec Redux Toolkit."
+      },
+      "fintech": {
+        "title": "Fintech - Plateforme d'éligibilité financière et de conseil",
+        "description": "Plateforme de workflow numérique reliant clients et banques, simplifiant les vérifications d'éligibilité et le traitement du conseil."
+      },
+      "trove": {
+        "title": "Trove - Application de chat en temps réel",
+        "description": "Application de chat sécurisée et évolutive avec messagerie instantanée, groupes, partage média et authentification Firebase."
+      },
+      "mytheron": {
+        "title": "MyTheron - Portail d'emploi interne",
+        "description": "Plateforme de recrutement interne avec accès par rôles, suivi des candidatures et workflow d'entretien."
+      }
+    }
+  },
+  "gallery": {
+    "title": "Galerie",
+    "professional": "Professionnel",
+    "personal": "Personnel",
+    "fun": "Fun"
+  },
+  "testimonials": {
+    "title": "Témoignages",
+    "items": [
+      {
+        "name": "A. Prakash",
+        "title": "Engineering Manager",
+        "quote": "Thameem livre avec constance sous pression et apporte un excellent jugement d'architecture frontend à chaque livraison."
+      },
+      {
+        "name": "S. Nivetha",
+        "title": "Product Lead",
+        "quote": "Il transforme des exigences complexes en parcours utilisateur simples et garde les parties prenantes alignées de l'idée au déploiement."
+      },
+      {
+        "name": "M. Rahman",
+        "title": "Senior Colleague",
+        "quote": "Un coéquipier fiable, avec un fort sens de l'ownership et une attention pointue à la performance et à l'expérience utilisateur."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "summary": "Ouvert aux opportunités à impact alignées sur la discipline, la vision long terme et une croissance responsable.",
+    "download": "Télécharger le CV"
+  },
+  "chat": {
+    "title": "Chat IA",
+    "quickQuestions": "Questions rapides",
+    "placeholder": "Posez une question sur l'expérience, les projets, les forces...",
+    "send": "Envoyer",
+    "play": "Lire la voix",
+    "hint": "Posez une question ou choisissez un prompt rapide."
+  }
+}

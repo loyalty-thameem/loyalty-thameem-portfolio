@@ -1,0 +1,191 @@
+﻿{
+    "identity":  {
+                     "name":  "Thameem Ansari",
+                     "height":  "Altura",
+                     "weight":  "Peso actual",
+                     "values":  "Valores clave"
+                 },
+    "language":  {
+                     "label":  "Idioma"
+                 },
+    "mode":  {
+                 "label":  "Modo",
+                 "default":  "Predeterminado",
+                 "hr":  "RR.HH.",
+                 "ceo":  "CEO",
+                 "family":  "Familia",
+                 "matrimony":  "Matrimonio"
+             },
+    "theme":  {
+                  "light":  "Claro",
+                  "dark":  "Oscuro"
+              },
+    "hero":  {
+                 "greeting":  "Portafolio de identidad digital",
+                 "typingWords":  [
+                                     "Ingeniero de software senior",
+                                     "Perfil guiado por valores",
+                                     "Mentalidad tradicional, ejecucion moderna"
+                                 ],
+                 "summary":  "Guiado por principios, enfocado en la salud y disciplinado; arraigado en la tradicion, centrado en el crecimiento y comprometido con una vida con proposito.",
+                 "ctaPrimary":  "Ver proyectos",
+                 "ctaSecondary":  "Contacto"
+             },
+    "about":  {
+                  "title":  "Sobre mi",
+                  "summary":  "Mantengo una vida disciplinada y guiada por valores, con mentalidad tradicional y enfoque de vida simple. Mis rutinas priorizan salud, constancia y crecimiento a largo plazo.",
+                  "responsibility":  "Estilo de vida limpio. Habitos disciplinados. Mente enfocada. Eggetariano y estrictamente abstemio, con fuertes valores familiares y espirituales.",
+                  "hobbiesTitle":  "Preferencias de comida y elecciones de estilo de vida"
+              },
+    "vision":  {
+                   "title":  "Vision 2030",
+                   "subtitle":  "Construir experiencias digitales inteligentes, multilingues y de alta confianza.",
+                   "points":  [
+                                  "Liderar equipos globales para crear ecosistemas frontend preparados para IA",
+                                  "Mentorear ingenieros y elevar estandares de calidad",
+                                  "Construir productos que equilibren objetivos de negocio y valores humanos"
+                              ]
+               },
+    "skills":  {
+                   "title":  "Habilidades",
+                   "radarTitle":  "Mapa de capacidades",
+                   "items":  {
+                                 "frontend":  "Ingenieria Frontend",
+                                 "architecture":  "Arquitectura de sistemas",
+                                 "performance":  "Optimizacion de rendimiento",
+                                 "leadership":  "Liderazgo tecnico",
+                                 "communication":  "Comunicacion con stakeholders"
+                             }
+               },
+    "experience":  {
+                       "title":  "Experiencia laboral",
+                       "items":  [
+                                     {
+                                         "role":  "Senior Frontend Engineer",
+                                         "company":  "Capgemini",
+                                         "duration":  "7 de mayo de 2025 - Actualidad",
+                                         "location":  "Chennai, India",
+                                         "summary":  "Liderando la ingeniería frontend para aplicaciones empresariales escalables con React y TypeScript, con enfoque en calidad, rendimiento y arquitectura mantenible.",
+                                         "highlights":  [
+                                                            "Desarrollo y mantenimiento de módulos frontend de nivel producción para flujos empresariales",
+                                                            "Colaboración con equipos de producto, diseño y backend para una entrega confiable",
+                                                            "Mejora del rendimiento y la consistencia UX mediante patrones de componentes reutilizables"
+                                                        ]
+                                     },
+                                     {
+                                         "role":  "Senior Frontend Engineer",
+                                         "company":  "Cavin Infotech",
+                                         "duration":  "Octubre de 2024 - Abril de 2025",
+                                         "location":  "Chennai, India",
+                                         "summary":  "Desarrollo de soluciones web de producto escalables con ReactJS, Next.js, WebSocket, Redux Toolkit y sólidas prácticas de UI/UX.",
+                                         "highlights":  [
+                                                            "Venba - App web de asistencia de chat con IA",
+                                                            "Fintech - Plataforma de elegibilidad financiera y asesoría",
+                                                            "Trove - App de chat en tiempo real",
+                                                            "MyTheron - Portal interno de empleo"
+                                                        ]
+                                     },
+                                     {
+                                         "role":  "Senior Frontend Engineer",
+                                         "company":  "Coherent Pixels (Cliente: Cavin Infotech)",
+                                         "duration":  "Julio de 2024 - Septiembre de 2024",
+                                         "location":  "Chennai, India",
+                                         "summary":  "Trabajo por contrato mediante Coherent Pixels para Cavin Infotech, desarrollando y optimizando aplicaciones de cliente basadas en React.",
+                                         "highlights":  [
+                                                            "Proyecto: Ascendio - Aplicación de seguimiento de objetivos",
+                                                            "Construcción de interfaces estructuradas de flujo y seguimiento de progreso con foco en engagement de usuarios",
+                                                            "Integración de gráficos/reportes interactivos para insights de rendimiento",
+                                                            "Tecnologías: ReactJS, JavaScript, React Hook Form, Redux Toolkit"
+                                                        ]
+                                     },
+                                     {
+                                         "role":  "Frontend Engineer",
+                                         "company":  "Goaira Technologies",
+                                         "duration":  "Septiembre de 2022 - Junio de 2024",
+                                         "location":  "Chennai, India",
+                                         "summary":  "Desarrollo y mantenimiento del panel admin y sitio web de Goaira para flujos de reserva de autos, motos, autorickshaw y alquileres.",
+                                         "highlights":  [
+                                                            "Optimización del rendimiento de la app y reducción de tiempos de carga",
+                                                            "Desarrollo de soluciones de renderizado personalizadas con React Reconciler",
+                                                            "Integración de APIs y gestión de estado global con Redux Toolkit",
+                                                            "Ejecución de auditorías de rendimiento e implementación de optimizaciones",
+                                                            "Colaboración con diseñadores UX/UI y desarrolladores backend"
+                                                        ]
+                                     },
+                                     {
+                                         "role":  "Junior Frontend Developer",
+                                         "company":  "Tecnovators Software Solutions",
+                                         "duration":  "Mayo de 2021 - Septiembre de 2022",
+                                         "location":  "Chennai, India",
+                                         "summary":  "Construcción y mantenimiento de aplicaciones web e-commerce de alto rendimiento con arquitectura frontend escalable y responsive.",
+                                         "highlights":  [
+                                                            "Desarrollo de múltiples aplicaciones e-commerce con ReactJS, HTML, CSS y JavaScript",
+                                                            "Mantenimiento de más de 40 páginas web con actualizaciones diarias",
+                                                            "Integración/personalización de librerías React de terceros",
+                                                            "Uso de Git para control de versiones y colaboración en equipo",
+                                                            "Garantía de compatibilidad cross-browser y estándares de código limpio"
+                                                        ]
+                                     }
+                                 ]
+                   },
+    "projects":  {
+                     "title":  "Proyectos",
+                     "items":  {
+                                   "venba":  {
+                                                 "title":  "Venba - App web de asistencia de chat con IA",
+                                                 "description":  "Chatbot con IA, conversaciones en tiempo real por WebSocket y gestion de estado con Redux Toolkit."
+                                             },
+                                   "fintech":  {
+                                                   "title":  "Fintech - Plataforma de elegibilidad financiera y asesoria",
+                                                   "description":  "Plataforma de flujo digital que conecta clientes y bancos, simplificando evaluaciones de elegibilidad y procesos de asesoria."
+                                               },
+                                   "trove":  {
+                                                 "title":  "Trove - App de chat en tiempo real",
+                                                 "description":  "App de chat segura y escalable con mensajeria en tiempo real, chats grupales, multimedia y autenticacion Firebase."
+                                             },
+                                   "mytheron":  {
+                                                    "title":  "MyTheron - Portal interno de empleo",
+                                                    "description":  "Plataforma interna de reclutamiento con acceso por roles, seguimiento de postulaciones y flujo de entrevistas."
+                                                }
+                               }
+                 },
+    "gallery":  {
+                    "title":  "Galeria",
+                    "professional":  "Profesional",
+                    "personal":  "Personal",
+                    "fun":  "Diversion"
+                },
+    "testimonials":  {
+                         "title":  "Testimonios",
+                         "items":  [
+                                       {
+                                           "name":  "A. Prakash",
+                                           "title":  "Engineering Manager",
+                                           "quote":  "Thameem entrega de forma constante bajo presión y aporta un sólido criterio de arquitectura frontend en cada release."
+                                       },
+                                       {
+                                           "name":  "S. Nivetha",
+                                           "title":  "Product Lead",
+                                           "quote":  "Convierte requisitos complejos en recorridos de usuario simples y mantiene alineados a los stakeholders desde la idea hasta el despliegue."
+                                       },
+                                       {
+                                           "name":  "M. Rahman",
+                                           "title":  "Senior Colleague",
+                                           "quote":  "Compañero confiable, con fuerte mentalidad de ownership y gran atención al rendimiento y la experiencia de usuario."
+                                       }
+                                   ]
+                     },
+    "contact":  {
+                    "title":  "Contacto",
+                    "summary":  "Abierto a oportunidades significativas alineadas con disciplina, impacto a largo plazo y crecimiento responsable.",
+                    "download":  "Descargar CV"
+                },
+    "chat":  {
+                 "title":  "Chat IA",
+                 "quickQuestions":  "Preguntas rapidas",
+                 "placeholder":  "Pregunta sobre experiencia, proyectos, fortalezas...",
+                 "send":  "Enviar",
+                 "play":  "Reproducir voz",
+                 "hint":  "Haz una pregunta o elige una sugerencia rapida."
+             }
+}

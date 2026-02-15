@@ -1,0 +1,191 @@
+﻿{
+    "identity":  {
+                     "name":  "Thameem Ansari",
+                     "height":  "身高",
+                     "weight":  "当前体重",
+                     "values":  "核心价值观"
+                 },
+    "language":  {
+                     "label":  "语言"
+                 },
+    "mode":  {
+                 "label":  "模式",
+                 "default":  "默认",
+                 "hr":  "人力资源",
+                 "ceo":  "首席执行官",
+                 "family":  "家庭",
+                 "matrimony":  "婚恋"
+             },
+    "theme":  {
+                  "light":  "浅色",
+                  "dark":  "深色"
+              },
+    "hero":  {
+                 "greeting":  "数字身份作品集",
+                 "typingWords":  [
+                                     "高级软件工程师",
+                                     "价值观驱动型人格",
+                                     "传统思维，现代执行"
+                                 ],
+                 "summary":  "以原则为核心，注重健康且自律；立足传统，专注成长，致力于有目标的生活。",
+                 "ctaPrimary":  "查看项目",
+                 "ctaSecondary":  "联系"
+             },
+    "about":  {
+                  "title":  "关于我",
+                  "summary":  "我坚持自律且价值观导向的生活方式，拥有传统思维和简约生活理念。我的日常习惯优先考虑健康、稳定性和长期成长。",
+                  "responsibility":  "生活干净。习惯自律。思维专注。蛋奶素且严格禁酒禁烟，并重视家庭责任与精神价值。",
+                  "hobbiesTitle":  "饮食偏好与生活方式选择"
+              },
+    "vision":  {
+                   "title":  "2030愿景",
+                   "subtitle":  "打造智能、多语言且高信任度的数字体验。",
+                   "points":  [
+                                  "领导全球团队构建面向AI的前端生态",
+                                  "培养工程师并提升质量标准",
+                                  "打造兼顾商业目标与人文价值的产品"
+                              ]
+               },
+    "skills":  {
+                   "title":  "技能",
+                   "radarTitle":  "能力图谱",
+                   "items":  {
+                                 "frontend":  "前端工程",
+                                 "architecture":  "系统架构",
+                                 "performance":  "性能优化",
+                                 "leadership":  "技术领导力",
+                                 "communication":  "利益相关方沟通"
+                             }
+               },
+    "experience":  {
+                       "title":  "工作经验",
+                       "items":  [
+                                     {
+                                         "role":  "高级前端工程师",
+                                         "company":  "Capgemini",
+                                         "duration":  "2025年5月7日 - 至今",
+                                         "location":  "印度·金奈",
+                                         "summary":  "主导基于 React 与 TypeScript 的可扩展企业级前端工程，重点关注质量、性能与可维护架构。",
+                                         "highlights":  [
+                                                            "为企业工作流构建并维护生产级前端模块",
+                                                            "与产品、设计和后端团队协作，保障稳定交付",
+                                                            "通过可复用组件模式提升性能与用户体验一致性"
+                                                        ]
+                                     },
+                                     {
+                                         "role":  "高级前端工程师",
+                                         "company":  "Cavin Infotech",
+                                         "duration":  "2024年10月 - 2025年4月",
+                                         "location":  "印度·金奈",
+                                         "summary":  "使用 ReactJS、Next.js、WebSocket、Redux Toolkit 构建可扩展产品型 Web 解决方案，并坚持高标准 UI/UX 实践。",
+                                         "highlights":  [
+                                                            "Venba - AI 聊天辅助 Web 应用",
+                                                            "Fintech - 金融资格与咨询平台",
+                                                            "Trove - 实时聊天应用",
+                                                            "MyTheron - 内部招聘门户应用"
+                                                        ]
+                                     },
+                                     {
+                                         "role":  "高级前端工程师",
+                                         "company":  "Coherent Pixels（客户：Cavin Infotech）",
+                                         "duration":  "2024年7月 - 2024年9月",
+                                         "location":  "印度·金奈",
+                                         "summary":  "通过 Coherent Pixels 以合同方式为 Cavin Infotech 开发并优化基于 React 的客户应用。",
+                                         "highlights":  [
+                                                            "项目：Ascendio - 目标追踪应用",
+                                                            "构建结构化工作流与进度追踪界面，强化用户参与度",
+                                                            "集成交互式图表与报告以提供性能洞察",
+                                                            "技术栈：ReactJS、JavaScript、React Hook Form、Redux Toolkit"
+                                                        ]
+                                     },
+                                     {
+                                         "role":  "前端工程师",
+                                         "company":  "Goaira Technologies",
+                                         "duration":  "2022年9月 - 2024年6月",
+                                         "location":  "印度·金奈",
+                                         "summary":  "开发与维护 Goaira 管理后台和官网，覆盖汽车、摩托、三轮车及租赁预订流程。",
+                                         "highlights":  [
+                                                            "优化应用性能并缩短加载时间",
+                                                            "基于 React Reconciler 开发自定义渲染方案",
+                                                            "完成 API 集成并使用 Redux Toolkit 管理全局状态",
+                                                            "执行性能审计并落地优化方案",
+                                                            "与 UX/UI 设计师和后端开发紧密协作"
+                                                        ]
+                                     },
+                                     {
+                                         "role":  "初级前端开发工程师",
+                                         "company":  "Tecnovators Software Solutions",
+                                         "duration":  "2021年5月 - 2022年9月",
+                                         "location":  "印度·金奈",
+                                         "summary":  "构建并维护高性能电商 Web 应用，采用可扩展且响应式的前端架构。",
+                                         "highlights":  [
+                                                            "使用 ReactJS、HTML、CSS、JavaScript 开发多个电商应用",
+                                                            "维护 40+ 个网页并进行日常更新",
+                                                            "集成/定制第三方 React 库",
+                                                            "使用 Git 进行版本管理与团队协作",
+                                                            "确保跨浏览器兼容性与整洁代码规范"
+                                                        ]
+                                     }
+                                 ]
+                   },
+    "projects":  {
+                     "title":  "项目",
+                     "items":  {
+                                   "venba":  {
+                                                 "title":  "Venba - AI聊天辅助Web应用",
+                                                 "description":  "基于WebSocket的实时拟人对话AI聊天机器人，并使用Redux Toolkit进行状态管理。"
+                                             },
+                                   "fintech":  {
+                                                   "title":  "Fintech - 金融资格与咨询平台",
+                                                   "description":  "连接客户与银行的数字化工作流平台，简化资格审核与咨询处理流程。"
+                                               },
+                                   "trove":  {
+                                                 "title":  "Trove - 实时聊天应用",
+                                                 "description":  "支持实时消息、群聊、多媒体共享和Firebase认证的安全可扩展聊天应用。"
+                                             },
+                                   "mytheron":  {
+                                                    "title":  "MyTheron - 内部招聘门户",
+                                                    "description":  "具备角色权限、申请跟踪和面试流程的内部招聘平台。"
+                                                }
+                               }
+                 },
+    "gallery":  {
+                    "title":  "图库",
+                    "professional":  "职业",
+                    "personal":  "个人",
+                    "fun":  "有趣"
+                },
+    "testimonials":  {
+                         "title":  "推荐评价",
+                         "items":  [
+                                       {
+                                           "name":  "A. Prakash",
+                                           "title":  "工程经理",
+                                           "quote":  "Thameem 在高压环境下依然稳定交付，并在每次发布中展现出优秀的前端架构判断力。"
+                                       },
+                                       {
+                                           "name":  "S. Nivetha",
+                                           "title":  "产品负责人",
+                                           "quote":  "他能将复杂需求转化为清晰易用的用户路径，并在从想法到部署的全过程中保持各方一致。"
+                                       },
+                                       {
+                                           "name":  "M. Rahman",
+                                           "title":  "资深同事",
+                                           "quote":  "他是值得信赖的队友，拥有很强的责任意识，并对性能和用户体验保持敏锐关注。"
+                                       }
+                                   ]
+                     },
+    "contact":  {
+                    "title":  "联系",
+                    "summary":  "欢迎与自律、长期影响和负责增长相契合的有意义机会。",
+                    "download":  "下载简历"
+                },
+    "chat":  {
+                 "title":  "AI聊天",
+                 "quickQuestions":  "快捷问题",
+                 "placeholder":  "可询问经验、项目、优势...",
+                 "send":  "发送",
+                 "play":  "语音播放",
+                 "hint":  "提问或选择一个快捷提示。"
+             }
+}

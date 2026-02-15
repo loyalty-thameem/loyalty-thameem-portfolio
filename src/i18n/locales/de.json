@@ -1,0 +1,191 @@
+﻿{
+    "identity":  {
+                     "name":  "Thameem Ansari",
+                     "height":  "Groesse",
+                     "weight":  "Aktuelles Gewicht",
+                     "values":  "Kernwerte"
+                 },
+    "language":  {
+                     "label":  "Sprache"
+                 },
+    "mode":  {
+                 "label":  "Modus",
+                 "default":  "Standard",
+                 "hr":  "HR",
+                 "ceo":  "CEO",
+                 "family":  "Familie",
+                 "matrimony":  "Heirat"
+             },
+    "theme":  {
+                  "light":  "Hell",
+                  "dark":  "Dunkel"
+              },
+    "hero":  {
+                 "greeting":  "Digitales Identitaetsportfolio",
+                 "typingWords":  [
+                                     "Senior Software Engineer",
+                                     "Werteorientierte Persoenlichkeit",
+                                     "Traditionelles Denken, moderne Umsetzung"
+                                 ],
+                 "summary":  "Prinzipienorientiert, gesundheitsbewusst und diszipliniert; in Tradition verankert, auf Wachstum fokussiert und einem sinnvollen Leben verpflichtet.",
+                 "ctaPrimary":  "Projekte ansehen",
+                 "ctaSecondary":  "Kontakt"
+             },
+    "about":  {
+                  "title":  "Ueber mich",
+                  "summary":  "Ich lebe diszipliniert und werteorientiert mit traditioneller Denkweise und einfachem Lebensstil. Meine Routinen priorisieren Gesundheit, Konstanz und langfristiges Wachstum.",
+                  "responsibility":  "Sauberer Lebensstil. Disziplinierte Gewohnheiten. Fokusierter Geist. Eggetarisch und strikt abstinent mit starken Familien- und spirituellen Werten.",
+                  "hobbiesTitle":  "Essenspraeferenzen und Lebensstilentscheidungen"
+              },
+    "vision":  {
+                   "title":  "Vision 2030",
+                   "subtitle":  "Intelligente, mehrsprachige und vertrauenswuerdige digitale Erlebnisse schaffen.",
+                   "points":  [
+                                  "Globale Teams fuer KI-faehige Frontend-Oekosysteme fuehren",
+                                  "Engineers begleiten und Qualitaetsstandards anheben",
+                                  "Produkte bauen, die Business-Ziele und menschliche Werte ausbalancieren"
+                              ]
+               },
+    "skills":  {
+                   "title":  "Kompetenzen",
+                   "radarTitle":  "Faehigkeitskarte",
+                   "items":  {
+                                 "frontend":  "Frontend Engineering",
+                                 "architecture":  "Systemarchitektur",
+                                 "performance":  "Performance-Optimierung",
+                                 "leadership":  "Technische Fuehrung",
+                                 "communication":  "Stakeholder-Kommunikation"
+                             }
+               },
+    "experience":  {
+                       "title":  "Berufserfahrung",
+                       "items":  [
+                                     {
+                                         "role":  "Senior Frontend Engineer",
+                                         "company":  "Capgemini",
+                                         "duration":  "7. Mai 2025 - Heute",
+                                         "location":  "Chennai, Indien",
+                                         "summary":  "Leitung der Frontend-Entwicklung für skalierbare Enterprise-Anwendungen mit React und TypeScript, mit Fokus auf Qualität, Performance und wartbare Architektur.",
+                                         "highlights":  [
+                                                            "Produktionsreife Frontend-Module für Enterprise-Workflows entwickelt und gepflegt",
+                                                            "Mit Produkt-, Design- und Backend-Teams für zuverlässige Auslieferung zusammengearbeitet",
+                                                            "Performance und UX-Konsistenz durch wiederverwendbare Komponentenmuster verbessert"
+                                                        ]
+                                     },
+                                     {
+                                         "role":  "Senior Frontend Engineer",
+                                         "company":  "Cavin Infotech",
+                                         "duration":  "Oktober 2024 - April 2025",
+                                         "location":  "Chennai, Indien",
+                                         "summary":  "Entwicklung skalierbarer Produkt-Weblösungen mit ReactJS, Next.js, WebSocket, Redux Toolkit und starken UI/UX-Praktiken.",
+                                         "highlights":  [
+                                                            "Venba - KI-Chat-Assistent Web-App",
+                                                            "Fintech - Plattform für finanzielle Eignung und Beratung",
+                                                            "Trove - Echtzeit-Chat-App",
+                                                            "MyTheron - Internes Jobportal"
+                                                        ]
+                                     },
+                                     {
+                                         "role":  "Senior Frontend Engineer",
+                                         "company":  "Coherent Pixels (Kunde: Cavin Infotech)",
+                                         "duration":  "Juli 2024 - September 2024",
+                                         "location":  "Chennai, Indien",
+                                         "summary":  "Vertragsarbeit über Coherent Pixels für Cavin Infotech zur Entwicklung und Optimierung von React-basierten Kundenanwendungen.",
+                                         "highlights":  [
+                                                            "Projekt: Ascendio - Zielverfolgungsanwendung",
+                                                            "Strukturierte Workflow- und Fortschritts-Interfaces mit starkem Fokus auf Nutzerinteraktion aufgebaut",
+                                                            "Interaktive Diagramme/Reports für Performance-Einblicke integriert",
+                                                            "Technologien: ReactJS, JavaScript, React Hook Form, Redux Toolkit"
+                                                        ]
+                                     },
+                                     {
+                                         "role":  "Frontend Engineer",
+                                         "company":  "Goaira Technologies",
+                                         "duration":  "September 2022 - Juni 2024",
+                                         "location":  "Chennai, Indien",
+                                         "summary":  "Entwicklung und Wartung des Goaira-Adminpanels und der Website für Buchungsabläufe von Auto, Bike, Auto-Rickshaw und Vermietung.",
+                                         "highlights":  [
+                                                            "App-Performance optimiert und Ladezeiten reduziert",
+                                                            "Individuelle Rendering-Lösungen mit React Reconciler entwickelt",
+                                                            "APIs integriert und globalen State mit Redux Toolkit verwaltet",
+                                                            "Performance-Audits durchgeführt und Optimierungen umgesetzt",
+                                                            "Mit UX/UI-Designern und Backend-Entwicklern zusammengearbeitet"
+                                                        ]
+                                     },
+                                     {
+                                         "role":  "Junior Frontend Developer",
+                                         "company":  "Tecnovators Software Solutions",
+                                         "duration":  "Mai 2021 - September 2022",
+                                         "location":  "Chennai, Indien",
+                                         "summary":  "Aufbau und Wartung leistungsstarker E-Commerce-Webanwendungen mit skalierbarer und responsiver Frontend-Architektur.",
+                                         "highlights":  [
+                                                            "Mehrere E-Commerce-Anwendungen mit ReactJS, HTML, CSS und JavaScript entwickelt",
+                                                            "Über 40 Webseiten mit täglichen Updates gepflegt",
+                                                            "Drittanbieter-React-Bibliotheken integriert/angepasst",
+                                                            "Git für Versionskontrolle und Teamarbeit verwendet",
+                                                            "Browserübergreifende Kompatibilität und saubere Coding-Standards sichergestellt"
+                                                        ]
+                                     }
+                                 ]
+                   },
+    "projects":  {
+                     "title":  "Projekte",
+                     "items":  {
+                                   "venba":  {
+                                                 "title":  "Venba - KI-Chat-Assistent Web-App",
+                                                 "description":  "KI-Chatbot mit WebSocket-Echtzeitgespraechen und Redux Toolkit State Management."
+                                             },
+                                   "fintech":  {
+                                                   "title":  "Fintech - Plattform fuer finanzielle Eignung und Beratung",
+                                                   "description":  "Digitaler Workflow, der Kunden und Banken verbindet und Eignungspruefung sowie Beratung vereinfacht."
+                                               },
+                                   "trove":  {
+                                                 "title":  "Trove - Echtzeit-Chat-App",
+                                                 "description":  "Sichere, skalierbare Chat-App mit Echtzeitnachrichten, Gruppen, Medienfreigabe und Firebase-Authentifizierung."
+                                             },
+                                   "mytheron":  {
+                                                    "title":  "MyTheron - Internes Jobportal",
+                                                    "description":  "Interne Recruiting-Plattform mit rollenbasiertem Zugriff, Bewerbungs-Tracking und Interview-Workflow."
+                                                }
+                               }
+                 },
+    "gallery":  {
+                    "title":  "Galerie",
+                    "professional":  "Beruflich",
+                    "personal":  "Persoenlich",
+                    "fun":  "Spass"
+                },
+    "testimonials":  {
+                         "title":  "Referenzen",
+                         "items":  [
+                                       {
+                                           "name":  "A. Prakash",
+                                           "title":  "Engineering Manager",
+                                           "quote":  "Thameem liefert auch unter Druck konstant und bringt bei jedem Release ein starkes Urteilsvermögen in der Frontend-Architektur ein."
+                                       },
+                                       {
+                                           "name":  "S. Nivetha",
+                                           "title":  "Product Lead",
+                                           "quote":  "Er übersetzt komplexe Anforderungen in einfache User Journeys und hält Stakeholder von der Idee bis zum Deployment ausgerichtet."
+                                       },
+                                       {
+                                           "name":  "M. Rahman",
+                                           "title":  "Senior Colleague",
+                                           "quote":  "Ein verlässlicher Teamkollege mit starkem Ownership-Mindset und klarem Fokus auf Performance und User Experience."
+                                       }
+                                   ]
+                     },
+    "contact":  {
+                    "title":  "Kontakt",
+                    "summary":  "Offen fuer sinnvolle Chancen mit Fokus auf Disziplin, langfristige Wirkung und verantwortungsvolles Wachstum.",
+                    "download":  "Lebenslauf herunterladen"
+                },
+    "chat":  {
+                 "title":  "KI-Chat",
+                 "quickQuestions":  "Schnellfragen",
+                 "placeholder":  "Frage nach Erfahrung, Projekten, Staerken...",
+                 "send":  "Senden",
+                 "play":  "Stimme abspielen",
+                 "hint":  "Stelle eine Frage oder waehle einen Schnellvorschlag."
+             }
+}

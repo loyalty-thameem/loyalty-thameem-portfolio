@@ -1,0 +1,191 @@
+﻿{
+    "identity":  {
+                     "name":  "Thameem Ansari",
+                     "height":  "身長",
+                     "weight":  "現在の体重",
+                     "values":  "コアバリュー"
+                 },
+    "language":  {
+                     "label":  "言語"
+                 },
+    "mode":  {
+                 "label":  "モード",
+                 "default":  "デフォルト",
+                 "hr":  "人事",
+                 "ceo":  "CEO",
+                 "family":  "家族",
+                 "matrimony":  "結婚"
+             },
+    "theme":  {
+                  "light":  "ライト",
+                  "dark":  "ダーク"
+              },
+    "hero":  {
+                 "greeting":  "デジタルアイデンティティ・ポートフォリオ",
+                 "typingWords":  [
+                                     "シニアソフトウェアエンジニア",
+                                     "価値観重視の人物",
+                                     "伝統的な思考と現代的な実行"
+                                 ],
+                 "summary":  "原則を大切にし、健康意識が高く規律ある人物。伝統を尊重し、成長に集中し、目的ある人生を追求します。",
+                 "ctaPrimary":  "プロジェクトを見る",
+                 "ctaSecondary":  "連絡する"
+             },
+    "about":  {
+                  "title":  "自己紹介",
+                  "summary":  "私は規律と価値観を重視した生活を送り、伝統的な考え方とシンプルな生き方を大切にしています。日々の習慣では健康・継続・長期的成長を優先します。",
+                  "responsibility":  "クリーンな生活。規律ある習慣。集中した思考。卵を含む菜食で、禁酒・禁煙を徹底し、家族責任と精神的価値観を大切にしています。",
+                  "hobbiesTitle":  "食の好みとライフスタイル"
+              },
+    "vision":  {
+                   "title":  "ビジョン2030",
+                   "subtitle":  "高信頼で多言語対応のインテリジェントなデジタル体験を構築する。",
+                   "points":  [
+                                  "AI対応のフロントエンド基盤を構築するグローバルチームをリード",
+                                  "エンジニアを育成し、品質基準を引き上げる",
+                                  "ビジネス目標と人間的価値を両立するプロダクトを作る"
+                              ]
+               },
+    "skills":  {
+                   "title":  "スキル",
+                   "radarTitle":  "スキルマップ",
+                   "items":  {
+                                 "frontend":  "フロントエンドエンジニアリング",
+                                 "architecture":  "システムアーキテクチャ",
+                                 "performance":  "パフォーマンス最適化",
+                                 "leadership":  "技術リーダーシップ",
+                                 "communication":  "ステークホルダーコミュニケーション"
+                             }
+               },
+    "experience":  {
+                       "title":  "職務経験",
+                       "items":  [
+                                     {
+                                         "role":  "シニアフロントエンドエンジニア",
+                                         "company":  "Capgemini",
+                                         "duration":  "2025年5月7日 - 現在",
+                                         "location":  "インド・チェンナイ",
+                                         "summary":  "React と TypeScript を用いたスケーラブルなエンタープライズアプリ向けフロントエンド開発を主導し、品質・性能・保守性の高いアーキテクチャに注力。",
+                                         "highlights":  [
+                                                            "エンタープライズ業務向けの本番品質フロントエンドモジュールを構築・保守",
+                                                            "安定した提供のために、プロダクト・デザイン・バックエンド各チームと連携",
+                                                            "再利用可能なコンポーネント設計で性能とUXの一貫性を向上"
+                                                        ]
+                                     },
+                                     {
+                                         "role":  "シニアフロントエンドエンジニア",
+                                         "company":  "Cavin Infotech",
+                                         "duration":  "2024年10月 - 2025年4月",
+                                         "location":  "インド・チェンナイ",
+                                         "summary":  "ReactJS、Next.js、WebSocket、Redux Toolkit を用いたスケーラブルなプロダクトWebソリューションを開発。UI/UX実践にも注力。",
+                                         "highlights":  [
+                                                            "Venba - AIチャット支援Webアプリ",
+                                                            "Fintech - 金融適格性・アドバイザリープラットフォーム",
+                                                            "Trove - リアルタイムチャットアプリ",
+                                                            "MyTheron - 社内求人ポータル"
+                                                        ]
+                                     },
+                                     {
+                                         "role":  "シニアフロントエンドエンジニア",
+                                         "company":  "Coherent Pixels（クライアント: Cavin Infotech）",
+                                         "duration":  "2024年7月 - 2024年9月",
+                                         "location":  "インド・チェンナイ",
+                                         "summary":  "Coherent Pixels 経由の契約で Cavin Infotech 向けに React ベースのクライアントアプリを開発・最適化。",
+                                         "highlights":  [
+                                                            "プロジェクト: Ascendio - 目標トラッキングアプリ",
+                                                            "ユーザーエンゲージメントを重視したワークフロー/進捗追跡UIを構築",
+                                                            "パフォーマンス可視化のためのインタラクティブなチャート/レポートを統合",
+                                                            "技術: ReactJS、JavaScript、React Hook Form、Redux Toolkit"
+                                                        ]
+                                     },
+                                     {
+                                         "role":  "フロントエンドエンジニア",
+                                         "company":  "Goaira Technologies",
+                                         "duration":  "2022年9月 - 2024年6月",
+                                         "location":  "インド・チェンナイ",
+                                         "summary":  "車・バイク・オート・レンタルの予約フロー向けに、Goaira の管理画面とWebサイトを開発・保守。",
+                                         "highlights":  [
+                                                            "アプリ性能を最適化し、読み込み時間を短縮",
+                                                            "React Reconciler を用いたカスタムレンダリングを開発",
+                                                            "API連携と Redux Toolkit によるグローバル状態管理を実装",
+                                                            "性能監査を実施し、効果的な最適化を適用",
+                                                            "UX/UI デザイナーやバックエンド開発者と協業"
+                                                        ]
+                                     },
+                                     {
+                                         "role":  "ジュニアフロントエンド開発者",
+                                         "company":  "Tecnovators Software Solutions",
+                                         "duration":  "2021年5月 - 2022年9月",
+                                         "location":  "インド・チェンナイ",
+                                         "summary":  "拡張性とレスポンシブ性を備えたフロントエンド構成で、高性能なEC向けWebアプリを開発・保守。",
+                                         "highlights":  [
+                                                            "ReactJS、HTML、CSS、JavaScript で複数のECアプリを開発",
+                                                            "40ページ以上のWebページを日次更新で保守",
+                                                            "サードパーティ React ライブラリを統合・カスタマイズ",
+                                                            "バージョン管理とチーム開発に Git を活用",
+                                                            "クロスブラウザ対応とクリーンなコーディング基準を徹底"
+                                                        ]
+                                     }
+                                 ]
+                   },
+    "projects":  {
+                     "title":  "プロジェクト",
+                     "items":  {
+                                   "venba":  {
+                                                 "title":  "Venba - AIチャット支援Webアプリ",
+                                                 "description":  "WebSocketによるリアルタイム会話とRedux Toolkitの状態管理を備えたAIチャットボット。"
+                                             },
+                                   "fintech":  {
+                                                   "title":  "Fintech - 金融適格性・アドバイザリープラットフォーム",
+                                                   "description":  "顧客と銀行をつなぐデジタルワークフローで、適格性確認とアドバイザリー処理を効率化。"
+                                               },
+                                   "trove":  {
+                                                 "title":  "Trove - リアルタイムチャットアプリ",
+                                                 "description":  "リアルタイムメッセージ、グループチャット、メディア共有、Firebase認証に対応した安全で拡張可能なチャットアプリ。"
+                                             },
+                                   "mytheron":  {
+                                                    "title":  "MyTheron - 社内求人ポータル",
+                                                    "description":  "役割ベースのアクセス、応募追跡、面接フローを備えた社内採用プラットフォーム。"
+                                                }
+                               }
+                 },
+    "gallery":  {
+                    "title":  "ギャラリー",
+                    "professional":  "プロフェッショナル",
+                    "personal":  "パーソナル",
+                    "fun":  "楽しい"
+                },
+    "testimonials":  {
+                         "title":  "推薦コメント",
+                         "items":  [
+                                       {
+                                           "name":  "A. Prakash",
+                                           "title":  "エンジニアリングマネージャー",
+                                           "quote":  "Thameem はプレッシャー下でも安定して成果を出し、毎リリースで優れたフロントエンド設計判断を示します。"
+                                       },
+                                       {
+                                           "name":  "S. Nivetha",
+                                           "title":  "プロダクトリード",
+                                           "quote":  "複雑な要件をシンプルなユーザージャーニーに落とし込み、構想からデプロイまで関係者の足並みを揃えます。"
+                                       },
+                                       {
+                                           "name":  "M. Rahman",
+                                           "title":  "シニア同僚",
+                                           "quote":  "高いオーナーシップと、性能・ユーザー体験への鋭い意識を持つ信頼できるチームメイトです。"
+                                       }
+                                   ]
+                     },
+    "contact":  {
+                    "title":  "連絡先",
+                    "summary":  "規律、長期的なインパクト、責任ある成長に沿った有意義な機会を歓迎します。",
+                    "download":  "履歴書をダウンロード"
+                },
+    "chat":  {
+                 "title":  "AIチャット",
+                 "quickQuestions":  "クイック質問",
+                 "placeholder":  "経験、プロジェクト、強みについて質問してください...",
+                 "send":  "送信",
+                 "play":  "音声再生",
+                 "hint":  "質問するか、クイックプロンプトを選択してください。"
+             }
+}

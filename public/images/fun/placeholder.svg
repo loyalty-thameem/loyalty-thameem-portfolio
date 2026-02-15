@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#1e1b4b"/>
+  <path d="M0 260 C160 180 320 340 640 220 L640 360 L0 360 Z" fill="#06b6d4" fill-opacity="0.35"/>
+  <text x="320" y="190" fill="#f8fafc" font-family="Arial" font-size="28" text-anchor="middle">Fun Gallery</text>
+</svg>
