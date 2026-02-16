@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://loyalty-thameem.github.io/loyalty-thameem-portfolio/sitemap.xml
